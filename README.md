@@ -1,31 +1,77 @@
-🚀 Treinamento em SQL Básico - Mate Academy
-Bem-vindo ao meu repositório! 👋 Aqui compartilho os exercícios e aprendizados obtidos durante o treinamento em SQL Básico que realizei na Mate Academy.
+# 🧠 Veja o que eu sei sobre SQL
 
-📋 Descrição
-Este repositório contém todos os exercícios realizados no treinamento, com o objetivo de demonstrar meu progresso e habilidades em SQL. É uma ótima oportunidade para compartilhar minha jornada de aprendizado e consolidar os conceitos estudados.
+Este repositório demonstra **meus conhecimentos práticos em SQL**, desenvolvidos durante o treinamento **SQL da Mate Academy**.
+Aqui você encontrará exercícios resolvidos, consultas reais e exemplos que refletem minha capacidade de **analisar dados, manipular tabelas e extrair informações relevantes de bancos de dados**.
 
-📂 Estrutura do Repositório
-exercicios/: Contém todos os exercícios resolvidos, separados por tópicos abordados no treinamento.
+---
 
-notas.md: Minhas anotações pessoais sobre os conceitos básicos de SQL aprendidos.
+## 🚀 Sobre o aprendizado
 
-desafios/ (opcional): Exercícios extras que foram além do treinamento.
+Ao longo do treinamento, trabalhei com desafios práticos que fortaleceram minha base em **bancos de dados relacionais** e no uso do SQL como ferramenta para análise e organização de dados.
 
-🛠️ Ferramentas Utilizadas
-Durante este treinamento, utilizei as seguintes ferramentas:
+Este repositório representa:
 
-SQL Workbench/Console: Para execução e testes de comandos.
+* Meu **progresso técnico em SQL**
+* Minha capacidade de **resolver problemas com dados**
+* Um registro prático do que já sei aplicar no dia a dia
 
-Banco de dados de exemplo fornecido pela Mate Academy.
+---
 
-🌟 O que você encontrará aqui?
-Comandos básicos de SQL: SELECT, INSERT, UPDATE, DELETE.
+## 📂 Estrutura do Repositório
 
-Manipulação de tabelas: criação, alteração e exclusão.
+* **exercicios/**
+  Exercícios resolvidos, organizados por temas e níveis de complexidade.
 
-Consultas complexas: uso de JOIN, GROUP BY, HAVING, entre outros.
+* **notas.md**
+  Anotações pessoais com explicações, boas práticas e conceitos importantes de SQL.
 
-Exercícios focados na prática do aprendizado.
+* **desafios/** *(opcional)*
+  Exercícios extras que exigiram maior raciocínio e consolidação do aprendizado.
 
-🤝 Contribuições
-Embora este repositório seja focado no meu aprendizado, ficarei feliz em receber feedback, sugestões ou melhorias. Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* SQL (ANSI SQL)
+* SQL Workbench / Console
+* Banco de dados de exemplo fornecido pela Mate Academy
+
+---
+
+## 💡 Conhecimentos Demonstrados
+
+Neste repositório você encontrará exemplos práticos de:
+
+* **Consultas SQL**
+
+  * `SELECT`, `INSERT`, `UPDATE`, `DELETE`
+
+* **Manipulação de tabelas**
+
+  * Criação, alteração e exclusão de tabelas
+
+* **Consultas mais avançadas**
+
+  * `JOIN`
+  * `GROUP BY`
+  * `HAVING`
+  * Filtros e agregações
+
+* **Raciocínio analítico**
+
+  * Transformação de dados em informações úteis
+  * Resolução de problemas com dados reais
+
+---
+
+## 🎯 Objetivo
+
+Este repositório faz parte da minha jornada de desenvolvimento na área de dados e programação.
+Ele serve tanto como **portfólio de aprendizado** quanto como base para evoluir para **SQL intermediário e avançado**.
+
+---
+
+## 🤝 Feedback e Contribuições
+
+Sugestões, feedbacks e melhorias são sempre bem-vindos!
+Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
